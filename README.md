@@ -64,7 +64,7 @@ export default UserProfile;
 
 ### **3\. `useContext` 🌐Hook**
 
-#### **STEP-1\. 📝 Creating a Context in a Separate File**
+### **STEP-1\. 📝 Creating a Context in a Separate File**
 
 You can create the context in a separate file, where you define the context and the provider. The context provider will wrap your application or specific parts of it, and the consumer (using `useContext`) will access the values provided by the context.
 
@@ -103,7 +103,7 @@ Here, we define a `ThemeContext` and `ThemeProvider` in a separate file. We also
 
 
 
-#### **STEP-2\. 📝 Using the Context in a Component**
+### **STEP-2\. 📝 Using the Context in a Component**
 
 Now you can import `useTheme` in any component to access the context values.
 
@@ -135,7 +135,7 @@ Here, we are importing `useTheme` from `ThemeContext.js` to access the `theme` v
 
 
 
-#### **STEP-3\. 📝 Wrapping the Application with the Provider**
+### **STEP-3\. 📝 Wrapping the Application with the Provider**
 
 Finally, you need to wrap your main application or the components that need access to the context with the `ThemeProvider`.
 
