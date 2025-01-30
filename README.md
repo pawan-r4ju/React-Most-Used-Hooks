@@ -1,3 +1,23 @@
+# React Hooks Practice Project
+## Task Manager
+
+This project contains examples of various React hooks for practice. The following hooks are included:
+
+1. `useState`
+
+2. `useEffect`
+
+3. `useContext`
+
+4. `useReducer`
+
+5. `useRef`
+
+6. `useMemo`
+
+7. `useCallback`
+
+Each hook is demonstrated with a practical example to help you understand how to use them in your React applications.
 ### **1\. `useState` ⚙️Hook**
 
 #### **File: `Counter.js`**
