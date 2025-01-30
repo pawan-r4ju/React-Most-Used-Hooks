@@ -1,0 +1,13 @@
+.task-manager.light {
+    background: #fff;
+    color: #000;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .task-manager.dark {
+    background: #333;
+    color: #fff;
+    min-height: 100vh;
+    padding: 20px;
+  }
