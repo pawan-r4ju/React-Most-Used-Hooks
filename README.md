@@ -80,7 +80,7 @@ const UserProfile = () => {
 export default UserProfile;
 ```
 
-* * * * *
+* * * * ***
 
 ### **3\. `useContext` 🌐Hook**
 
