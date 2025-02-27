@@ -50,7 +50,6 @@ export default Counter;
 #### **File: `UserProfile.js`**
 
 
-
 ```bash
  import React, { useState, useEffect } from 'react';
 
